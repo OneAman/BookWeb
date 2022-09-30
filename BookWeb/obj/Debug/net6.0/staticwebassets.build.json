@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/Xgrn2f622xEZyehGxz8ggnDWh5pLcYMZ1KxL6SzhKc=",
+  "Hash": "b22Cu3jFRv/tiTy2Z4UZrmFXfxwtmoGjnTcmBRHzRNg=",
   "Source": "BookWeb",
   "BasePath": "_content/BookWeb",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Aman.Varama\\source\\repos\\BookWeb\\BookWeb\\BookWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BookWeb.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Aman.Varama\\source\\repos\\BookWeb\\BookWeb\\BookWeb\\wwwroot\\css\\bootswatchTheme.css",
+      "SourceId": "BookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aman.Varama\\source\\repos\\BookWeb\\BookWeb\\BookWeb\\wwwroot\\",
+      "BasePath": "_content/BookWeb",
+      "RelativePath": "css/bootswatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootswatchTheme.css"
     },
     {
       "Identity": "C:\\Users\\Aman.Varama\\source\\repos\\BookWeb\\BookWeb\\BookWeb\\wwwroot\\css\\site.css",
